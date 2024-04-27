@@ -34,3 +34,13 @@
    </div>
 </div>
 </br>
+
+## Overview (3 min)
+
+https://github.com/langfuse/.github/assets/2834609/ee80e7ba-feb5-44a8-8c65-840f8c1e63f0
+
+_unmute for voice-over_
+
+## Learn more
+
+See the [langfuse/langfuse readme](https://github.com/langfuse/langfuse) and [docs](https://langfuse.com/docs) for more details. 
