@@ -40,11 +40,9 @@
 </div>
 </br>
 
-## Overview (3 min)
+## Langfuse Overview
 
-https://github.com/langfuse/.github/assets/2834609/ee80e7ba-feb5-44a8-8c65-840f8c1e63f0
-
-_unmute for voice-over_
+[![Langfuse Overview Video](https://github.com/user-attachments/assets/d4b7bcb3-7c26-4065-8e49-ac2726d0d98d)](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
 
 ## Learn more
 
