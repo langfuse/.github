@@ -42,7 +42,7 @@
 
 ## Langfuse Overview
 
-[![Langfuse Overview Video](https://github.com/user-attachments/assets/d4b7bcb3-7c26-4065-8e49-ac2726d0d98d)](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
+[![Langfuse Overview Video](https://github.com/user-attachments/assets/d4b7bcb3-7c26-4065-8e49-ac2726d0d98d)](https://langfuse.com/watch-demo)
 
 ## Learn more
 
