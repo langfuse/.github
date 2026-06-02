@@ -1,4 +1,4 @@
-![Langfuse GitHub Banner](https://langfuse.com/images/docs/github-readme/github-banner.png)
+<img width="2400" height="600" alt="hero-b" src="https://github.com/user-attachments/assets/5ccecfb8-2990-4d03-8014-88ec7cd75e9a" />
 
 <div align="center">
    <div>
@@ -23,7 +23,7 @@
       <a href="https://langfuse.com/roadmap"><strong>Roadmap</strong></a> ·
    </div>
    <br/>
-   <span>Langfuse uses <a href="https://github.com/orgs/langfuse/discussions"><strong>Github Discussions</strong></a>  for Support and Feature Requests.</span>
+   <span>Langfuse uses <a href="https://github.com/orgs/langfuse/discussions"><strong>GitHub Discussions</strong></a>  for Support and Feature Requests.</span>
    <br/>
    <span><b>We're hiring.</b> <a href="https://langfuse.com/careers"><strong>Join us</strong></a> in product engineering and technical go-to-market roles.</span>
    <br/>
@@ -60,11 +60,4 @@
 </p>
 
 Langfuse is an **open source LLM engineering** platform. It helps teams collaboratively
-**develop, monitor, evaluate,** and **debug** AI applications. Langfuse can be **self-hosted in minutes** and is **battle-tested**.
-
-[![Langfuse Overview Video](https://github.com/user-attachments/assets/3926b288-ff61-4b95-8aa1-45d041c70866)](https://langfuse.com/watch-demo)
-
-
-## Learn more
-
-See the [langfuse/langfuse readme](https://github.com/langfuse/langfuse) and [docs](https://langfuse.com/docs) for more details. 
+**develop, monitor, evaluate,** and **debug** AI applications. Langfuse can be **self-hosted in minutes** and is **battle-tested**. Proudly made with [ClickHouse open source database](https://github.com/ClickHouse/ClickHouse).
